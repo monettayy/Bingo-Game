@@ -1,0 +1,5 @@
+001|budit|budit|Budit|Si|Ako|10/31/2017|budit@yahoo.com|09876543210
+002|monettayy|monettayy|Monette|Llegado|Fornaleza|1/17/1998|monettayy@gmail.com|09876543210
+003|bruno|bruno|Bruno|Si|Mars|10/31/2017|brunomars@something.com|019234567890
+004|jullie|jullie|Jullie|Magistrado|Garcia|10/31/2017|jullie@gmail.com|09876543211
+005|helemazing|helemazing|Helen Grace|Del Rosario|Benitez|12/2/1998|helemazing@gmail.com|0987890987
